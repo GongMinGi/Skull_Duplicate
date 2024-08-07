@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skill_Reborn_2 #1656523_0: 1461155699009386973
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
